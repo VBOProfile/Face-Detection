@@ -1,0 +1,5 @@
+Step 1: Run the program "getDataFomWebcam.py"--> To check the webcam draws a square around the face
+Step 2: Run the program "getData.py" --> Create a data file to store personal information (enter information such as: ID(order), Name(name), Age(Age), Gender( sex)). save profile picture of person being photographed with multiple face angles (left, right, top, bottom)
+Step 3: Run the program "TrainData.py" --> Create face encoding file 'trainingData.yml'
+Step 4: Run the program "RecognitionData.py" -> Proceed to identify the individual's information recorded by the webcam through the previously saved Data database
+Note: Install libraries before running the program such as: opencv, numpy, image 
